@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"><ProjectExtensions><Borland.Personality>Delphi.Personality.12</Borland.Personality><Borland.ProjectType>OptionSet</Borland.ProjectType><BorlandProject><Delphi.Personality></Delphi.Personality></BorlandProject><ProjectFileVersion>12</ProjectFileVersion></ProjectExtensions>  <PropertyGroup>
+    <Android_LauncherIcon144>C:\Users\labie\Downloads\icones\iconfinder144x144.png</Android_LauncherIcon144>
+    <Android_LauncherIcon72>C:\Users\labie\Downloads\icones\iconfinder72x72.png</Android_LauncherIcon72>
+    <Android_LauncherIcon96>C:\Users\labie\Downloads\icones\iconfinder96x96.png</Android_LauncherIcon96>
+    <Android_LauncherIcon48>C:\Users\labie\Downloads\icones\iconfinder48x48.png</Android_LauncherIcon48>
+    <Android_LauncherIcon36>C:\Users\labie\Downloads\icones\iconfinder36x36.png</Android_LauncherIcon36>
+    <Android_SplashImage470>C:\Users\labie\Downloads\icones\iconfinder470x320.png</Android_SplashImage470>
+    <Android_SplashImage640>C:\Users\labie\Downloads\icones\iconfinder640x480.png</Android_SplashImage640>
+    <Android_SplashImage960>C:\Users\labie\Downloads\icones\iconfinder960x720.png</Android_SplashImage960>
+    <Android_SplashImage426>C:\Users\labie\Downloads\icones\iconfinder426x320.png</Android_SplashImage426>
+  </PropertyGroup>
+</Project>
